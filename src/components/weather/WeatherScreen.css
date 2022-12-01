@@ -1,0 +1,23 @@
+.header{
+    text-align: center;
+    font-weight: bold;
+    font-size: x-large;
+    margin: 20px;
+}
+
+.weather-image{
+    text-align: center;
+    width: 250;
+    height: 500;
+    margin: 40px;
+}
+
+.text-container{
+    text-align: center;
+    margin: 20px;
+}
+
+.text{
+    font-size: larger;
+    margin: 20px;
+}

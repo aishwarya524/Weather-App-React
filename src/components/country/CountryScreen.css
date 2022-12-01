@@ -1,0 +1,45 @@
+body{
+    background-color: #f7f3f3 !important;
+}
+
+.header{
+    text-align: center;
+    font-weight: bold;
+    font-size: x-large;
+    margin: 20px;
+}
+
+.flag-image{
+    text-align: center;
+    width: 50;
+    height: 300;
+    margin: 20px;
+}
+
+.flag-image-container{
+    text-align: center;
+    width: 150;
+    height: 300;
+}
+
+.text-container{
+    text-align: center;
+    margin: 10px;
+}
+
+.text{
+    font-size: larger;
+    margin: 20px;
+}
+
+.active-btn{
+    background-color: blue;
+    border-radius: 5px;
+}
+
+.btn-container{
+    margin: 10px 0px;
+    display: flex;
+    justify-content: center;
+    padding: 3%;
+}
